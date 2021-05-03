@@ -1,5 +1,5 @@
 # Kill Docker Auto Updates
-This repository contains patched binaries that disable the auto-updating process of Docker Desktop. If you rather patch the binaries yourself, the instructions can be found under ``Patching Docker Desktop manually``.
+This repository contains patched binaries that disable the auto-updating process of Docker Desktop. If you rather patch the binaries yourself, the instructions can be found under ``Patching Docker Manually``.
 
 ## Patching Docker
 
