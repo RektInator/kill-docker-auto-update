@@ -1,8 +1,11 @@
-# Patching Docker Desktop using these assemblies
+# Kill Docker Auto Updates
+This repository contains patched binaries that disable the auto-updating process of Docker Desktop. If you rather patch the binaries yourself, the instructions can be found under ``Patching Docker Desktop manually``.
 
-Simply navigate to `C:\Program Files\Docker\Docker` and drop the assemblies found in this repository.
+## Patching Docker
 
-# Patching Docker Desktop manually
+Simply navigate to `C:\Program Files\Docker\Docker` and drop the assemblies found in this repository. Use the binaries for the correct version of Docker.
+
+## Patching Docker Manually
 
 Required tool: https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win64.zip
 
